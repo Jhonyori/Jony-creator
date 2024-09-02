@@ -1,2 +1,1 @@
-# Jony-creator
-Este es un repositorio nuevo
+este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computadora.
